@@ -10,8 +10,6 @@ and evaluated them using F1 score and MAE
      -this folder includes results of our recommendation models.
 - Script
      -It is a script folder where you can find R scripts for recommendation models
-- additional files & data
-     -These folders include extra scripts for graphs and data used for this project
 - Recommendation Tools - Group Assignment.pdf
      -This is the final report explaining which recommendation model we chose and why
 
