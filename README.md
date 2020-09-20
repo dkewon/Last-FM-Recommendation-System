@@ -15,4 +15,3 @@ and evaluated them using F1 score and MAE
 
 
 
-![alt text](https://gigaom.com/wp-content/uploads/sites/1/2012/06/lastfmlogo.png)
